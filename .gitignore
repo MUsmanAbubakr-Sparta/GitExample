@@ -1,0 +1,2 @@
+# Exlude all properties file from my repo
+*.properties
